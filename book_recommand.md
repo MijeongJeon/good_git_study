@@ -15,5 +15,5 @@ http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcod
 * 꼼꼼한 재은 씨의 스위프트 실전편 : iOS 앱 개발을 위한 Swift 바이블[개정판] | 이재은 | 루비페이퍼 | 48,000원 | [링크](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=268746148&sc.saNo=007&bnid1=book_2015&bnid2=bottom&bnid3=Author&bnid4=relate_book)
 
 ### 진우의 추천
-* 스위프트 4 프로토콜지향 프로그래밍 3/e | 존 호프만 | 22,500원 | [링크](http://www.acornpub.co.kr/book/pop-swift4-3e)
-* 라즈베리 파이로 배우는 컴퓨터 아키텍처 | 에반 업튼 외 4명 | 28,800원 | [링크](https://wikibook.co.kr/learning-computer-architecture/)
+* 스위프트 4 프로토콜지향 프로그래밍 3/e | 존 호프만 | 에이콘 | 22,500원 | [링크](http://www.acornpub.co.kr/book/pop-swift4-3e)
+* 라즈베리 파이로 배우는 컴퓨터 아키텍처 | 에반 업튼 외 4명 | 위키북스 | 28,800원 | [링크](https://wikibook.co.kr/learning-computer-architecture/)
