@@ -5,5 +5,5 @@
 * 스위프트 프로그래밍 2판 | 야곰 | 한빛 미디어 | 32,000원 | [링크](http://www.hanbit.co.kr/store/books/look.php?p_code=B2206901403)
 * 누워서 읽는 알고리즘 | 임백준 | 한빛 미디어 | 15,000원 | [링크](http://www.hanbit.co.kr/store/books/look.php?p_code=B2845007875)
 ### 진우의 추천
-* 스위프트 4 프로토콜지향 프로그래밍 3/e | 존 호프만 | 22,500원 | [링크](http://www.acornpub.co.kr/book/pop-swift4-3e)
-* 라즈베리 파이로 배우는 컴퓨터 아키텍처 | 에반 업튼 외 4명 | 28,800원 | [링크](https://wikibook.co.kr/learning-computer-architecture/)
+* 스위프트 4 프로토콜지향 프로그래밍 3/e | 존 호프만 | 에이콘 | 22,500원 | [링크](http://www.acornpub.co.kr/book/pop-swift4-3e)
+* 라즈베리 파이로 배우는 컴퓨터 아키텍처 | 에반 업튼 외 4명 | 위키북스 | 28,800원 | [링크](https://wikibook.co.kr/learning-computer-architecture/)
