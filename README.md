@@ -12,7 +12,7 @@
 ### 스터디 멤버 🤓
 | 📸 | 이름 | 그리고 |
 |------|------|--------|
-|  🖼   | [다연](https://github.com/DayeonJung)     |    iOS 개발자    |
+| ![다연](https://avatars0.githubusercontent.com/u/41604600?s=460&v=4)    | [다연](https://github.com/DayeonJung)     |    iOS 개발자    |
 | ![미정](https://avatars2.githubusercontent.com/u/19141925?s=120&v=4)     | [미정](https://github.com/MijeongJeon)  |   스터디 리더     |
 | 🖼     |    [민석](https://github.com/kherubims)   |    python 개발자    |
 |  ![지원](https://avatars0.githubusercontent.com/u/29719683?s=120&v=4)   |  [지원](https://github.com/jyeoni0919)   |   iOS 개발자     |
