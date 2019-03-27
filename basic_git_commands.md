@@ -14,7 +14,7 @@
 ## git add
 `git add` 파일의 변화를 `Staging Area(Index)`에 올릴 때 사용하는 기본 명령어  
 > (파일의 변화: 수정, 추가, 삭제)
-	
+
 ```
 ## add 관련 명령어
 	
@@ -37,6 +37,19 @@ git add -p
 git checkout -- foo1
 ```
 
+
+
+##git checkout
+
+과거 특정 commit/branch 지점으로 옮기기위해 사용하는 기본 명령어  
+
+```
+## checkout 관련 명령어
+```
+
+
+
 ### reference
+
 * [git scm : 2.2 Git의 기초 - 수정하고 저장소에 저장하기](https://git-scm.com/book/ko/v2/Git의-기초-수정하고-저장소에-저장하기)
 * [Outsider's Dev Story : git add -p 와 git commit -v 의 사용](https://blog.outsider.ne.kr/1247)
