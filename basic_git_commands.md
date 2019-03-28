@@ -63,3 +63,5 @@ git checkout -B <branchName> <startPoint>
 
 * [git scm : 2.2 Git의 기초 - 수정하고 저장소에 저장하기](https://git-scm.com/book/ko/v2/Git의-기초-수정하고-저장소에-저장하기)
 * [Outsider's Dev Story : git add -p 와 git commit -v 의 사용](https://blog.outsider.ne.kr/1247)
+* [민소네 : [Git]명령어 정리](http://minsone.github.io/git/git-command-list)
+* [freeCodeCamp : Git Checkout](https://guide.freecodecamp.org/git/git-checkout/)
