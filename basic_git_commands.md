@@ -62,7 +62,7 @@ git checkout -B <branchName> <startPoint>
 `현재 branch`와 `대상 branch`를 병합하는 기본 명령어로 아래와 같은 방법들로 병합 가능함
 `Straight Merge(바로 합치기)`: branch 변경 이력 전체를 병합하는 방법
 `Squashed Commit(커밋 합치기)`: 대상 branch의 commit 이력을 압축하여 다른 branch의 최신 커밋으로 생성하는 방법
-`Cherry-picking(선택하여 합치`: 다른 branch의 하나의 commit을 현재 branch에 병합하는 방법
+`Cherry-picking(선택하여 합치기)`: 다른 branch의 하나의 commit을 현재 branch에 병합하는 방법
 
 ```
 ## branch 관련 명령어
@@ -75,6 +75,12 @@ git merge --abort
 
 // 대상 branch의 다수의 커밋을 하나로 만들어 현재 branch의 staging에 추가
 git merge --squash <branchName>
+
+// 커밋하지 않고 병합
+git merge --no-commit <branchName>
+
+// 다양한 명령어 옵션 확인
+git merge --help
 ```
 
 
