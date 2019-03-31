@@ -57,6 +57,26 @@ git checkout -b <branchName>
 git checkout -B <branchName> <startPoint>
 ```
 
+### git merge
+
+`현재 branch`와 `대상 branch`를 병합하는 기본 명령어로 아래와 같은 방법들로 병합 가능함
+`Straight Merge(바로 합치기)`: branch 변경 이력 전체를 병합하는 방법
+`Squashed Commit(커밋 합치기)`: 대상 branch의 commit 이력을 압축하여 다른 branch의 최신 커밋으로 생성하는 방법
+`Cherry-picking(선택하여 합치`: 다른 branch의 하나의 commit을 현재 branch에 병합하는 방법
+
+```
+## branch 관련 명령어
+
+// Straight Merge: 현재 branch와 대상 branch를 병합
+git merge <branchName>
+
+// 병합시 충돌 발생하는 경우, 이전으로 되돌리기
+git merge --abort
+
+// 대상 branch의 다수의 커밋을 하나로 만들어 현재 branch의 staging에 추가
+git merge --squash <branchName>
+```
+
 
 
 ### reference
@@ -65,3 +85,4 @@ git checkout -B <branchName> <startPoint>
 * [Outsider's Dev Story : git add -p 와 git commit -v 의 사용](https://blog.outsider.ne.kr/1247)
 * [민소네 : [Git]명령어 정리](http://minsone.github.io/git/git-command-list)
 * [freeCodeCamp : Git Checkout](https://guide.freecodecamp.org/git/git-checkout/)
+* [Git Merge 종류와 충돌 해결하기](https://mobicon.tistory.com/106)
