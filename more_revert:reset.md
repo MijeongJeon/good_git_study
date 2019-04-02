@@ -49,21 +49,21 @@ git reset --mixed <되돌아갈 커밋>
 
 //기존 히스토리
 
-![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(2).jpg)
+![image](./images/revert:reset(2).jpg)
 
 
 
 //git reset —hard a3bbb3c
 
-![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(3).jpg)
+![image](./images/revert:reset(3).jpg)
 
 //git reset —soft a3bbb3c
 
-![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(4).jpg)
+![image](./images/revert:reset(4).jpg)
 
 //git reset —mixed a3bbb3c
 
-![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(5).jpg)
+![image](./images/revert:reset(5).jpg)
 
 ---
 
