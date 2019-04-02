@@ -57,6 +57,23 @@ git checkout -b <branchName>
 git checkout -B <branchName> <startPoint>
 ```
 
+## git commit 
+
+Staging Area에 올라간 파일 및 폴더의 추가/변경 사항을 로컬 저장소에 기록하는 기본 명령어 
+
+```
+## commit 관련 명령어
+
+//Staging Area에 올라와 있는 모든 파일에 대해 commit(커밋 메세지 길게 남기기 가능)
+git commit
+
+// -m 옵션으로 간단한 메세지를 작성하여 commit
+git commit -m "<commit message>"
+
+// 수정된 파일 한번에 add 해서 commit
+git commit -a -m "commit message"
+
+
 ### git merge
 
 `현재 branch`와 `대상 branch`를 병합하는 기본 명령어로 아래와 같은 방법들로 병합 가능함  
@@ -82,7 +99,6 @@ git merge --no-commit <branchName>
 // 다양한 명령어 옵션 확인
 git merge --help
 ```
-
 
 
 ### reference
