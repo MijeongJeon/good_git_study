@@ -9,7 +9,7 @@
 | git rebase         | 민석   |
 
 ## git cherry pick
-`git commit을 선택해서 현재 branch에 반영하기 위한 명령어
+`git commit`을 선택해서 현재 branch에 반영하기 위한 명령어
 
 ```
 // 특정 commit을 현재 브런치로 가져옴
