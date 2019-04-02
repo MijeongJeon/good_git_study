@@ -14,7 +14,7 @@ git revert HEAD
 git revert <되돌릴 커밋> 
 ```
 
-![revert:reset(1)](/Users/gongjiwon/Desktop/good_git_study/revert:reset(1).jpg)
+![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(1).jpg)
 
 예를들어 git revert 2664ce8 이라고 명령어를 치면, '절름발이 범인이다라는 댓글을 발견' 이라고 남긴 커밋까지 취소되고 파일에는 '유주얼 서스펙트 개봉 소식 들음'과 '예매를 하려고 영화를 검색함' 이라는 내용만 남게된다. (2664ce8 바로 이전의 커밋상태로 돌아감. 2664ce8 커밋은 포함되지 않음)
 
@@ -49,23 +49,21 @@ git reset --mixed <되돌아갈 커밋>
 
 //기존 히스토리
 
-![revert:reset(2)](/Users/gongjiwon/Desktop/good_git_study/revert:reset(2).jpg)
+![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(2).jpg)
 
 
 
 //git reset —hard a3bbb3c
 
-![revert:reset(3)](/Users/gongjiwon/Desktop/good_git_study/revert:reset(3).jpg)
+![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(3).jpg)
 
 //git reset —soft a3bbb3c
 
-![스크린샷 2019-04-02 오후 12.57.20](/Users/gongjiwon/Desktop/good_git_study/스크린샷 2019-04-02 오후 12.57.20.jpg)
-
-
+![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(4).jpg)
 
 //git reset —mixed a3bbb3c
 
-![스크린샷 2019-04-02 오후 12.58.12](/Users/gongjiwon/Desktop/good_git_study/스크린샷 2019-04-02 오후 12.58.12.jpg)
+![image](/Users/gongjiwon/Desktop/good_git_study/images/revert:reset(5).jpg)
 
 ---
 
