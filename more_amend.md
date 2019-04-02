@@ -23,3 +23,5 @@ git commit --amend --no-edit
 다른 사용자와 공유한 커밋을 개정하면 혼란스러울 가능성이 있으므로 --amend를 사용할 때는 주의해야 함.
 
 
+### reference
+* [Git commit --amend 및 기록을 다시 작성하는 다른 방법](https://ko.atlassian.com/git/tutorials/rewriting-history)
